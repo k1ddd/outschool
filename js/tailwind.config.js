@@ -2,6 +2,7 @@ tailwind.config = {
   
   theme: {
     screens: {
+      
       lg: { max: "1199.99px" },
       md: { max: "991.99px" },
       sm: { max: "767.99px" },
