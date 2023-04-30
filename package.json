@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/k1ddd/outschool/issues"
   },
-  "homepage": "https://github.com/k1ddd/outschool",
+  "homepage": "https://github.com/k1ddd/outschool/",
   "devDependencies": {
     "prettier": "^2.8.7",
     "prettier-plugin-tailwindcss": "^0.2.6",
